@@ -16,20 +16,27 @@
 
 ---
 
-## 🌐 Socials
+## 🚀 Meine Projekte
+
+- 🌐 Website: [junixFx.de](https://junixFx.de)
+- 🖥️ Hosting: [mjadventurehost](https://mjadventurehost.de)
+
+---
+
+## 🌐 SocialsT
 
 <p>
-  https://github.com/JunixcodingFx
-    https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge
+  <a href="https://github.com/JunixcodingFx">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge">
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Logo :)
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=JunixcodingFx&show_icons=true&theme=tokyonight
+  <img src="https://junixfx.de/bilderbuch/JF.png">
 </p>
 
 ---
@@ -37,7 +44,7 @@
 ## 🚀 Languages & Tools
 
 <p>
-  https://skillicons.dev/icons?i=html,css,js,python,java,git
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git">
 </p>
 
 ---
@@ -45,5 +52,6 @@
 ## 👀 Besucher
 
 <p>
-  https://komarev.com/ghpvc/?username=JunixcodingFx&color=blue
+  <img src="https://komarev.com/ghpvc/?username=JunixcodingFx&color=blue">
 </p>
+``
