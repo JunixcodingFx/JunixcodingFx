@@ -1,56 +1,71 @@
-<h1 align="center">Hi 👋, ich bin Jonathan</h1>
-<h3 align="center">aka JunixcodingFx 🚀</h3>
+#  Hi, ich bin Jonathan – JunixcodingFx
+
+**Developer · Minecraft Plugin Developer · PHP Web Developer**
+
+Willkommen auf meinem GitHub-Profil! Ich entwickle eigene Software, moderne Websites und individuelle Minecraft-Plugins. Außerdem beschäftige ich mich mit Linux-Betriebssystemen, Serververwaltung und neuen Technologien.
+
+##  Über mich
+
+-  Entwicklung eigener Minecraft-Plugins für Paper und Purpur
+-  PHP-Webentwicklung und responsive Websites
+-  Linux-Betriebssysteme, insbesondere Linux Mint und Debian
+-  Serververwaltung, Automatisierung und technische Problemlösungen
+-  Eigene Projekte entwickeln und neue Technologien kennenlernen
+
+##  Technische Schwerpunkte
+
+**Programmiersprachen**
+- PHP 8.4
+- Java
+- Python
+- HTML5, CSS3 und JavaScript
+
+**Minecraft-Entwicklung**
+- Paper, Purpur und Bukkit-/Spigot-API
+- Individuelle Plugins und Spielmechaniken
+- Plugin-Konfigurationen und Serveroptimierung
+
+**Tools**
+- Visual Studio Code
+- IntelliJ IDEA
+
+##  GitHub-Statistiken
 
 <p align="center">
-  💻 Developer | 🎮 Gamer | ⚡ Tech Enthusiast
+  <img src="https://github-readme-stats.vercel.app/api?username=JunixcodingFx&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub-Statistiken" />
 </p>
-
----
-
-## 👨‍💻 About me
-
-- 🧠 Ich lerne aktuell Programmierung & Tech
-- 🛠️ Interesse an Web, Apps & Software
-- 🎯 Ziel: Besser werden & eigene Projekte bauen
-- 🔥 Motivation: Kreativität + Technologie verbinden
-
----
-
-## 🚀 Meine Projekte
-
-- 🌐 Website: [junixFx.de](https://junixFx.de)
-- 🖥️ Hosting: [mjadventurehost](https://mjadventurehost.de)
-
----
-
-## 🌐 SocialsT
-
-<p>
-  <a href="https://github.com/JunixcodingFx">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge">
-  </a>
-</p>
-
----
-
-## Logo :)
 
 <p align="center">
-  <img src="https://junixfx.de/bilderbuch/JF.png">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunixcodingFx&layout=compact&theme=transparent&hide_border=true" alt="Häufig verwendete Programmiersprachen" />
 </p>
+
+## 🚀 Eigene Projekte
+
+###  JunixFx
+
+Meine persönliche WebSeite.
+
+**Website:** https://junixfx.de
+
+###  mjadventurehost
+
+Ein Hosting-Projekt mit Schwerpunkt auf Gameservern, Serververwaltung und technischen Lösungen für Spielserver.
+
+**Website:** https://mjadventurehost.de
+
+##  Social Media und Kontakt
+
+- **GitHub:** https://github.com/JunixcodingFx
+- **YouTube:** https://www.youtube.com/@JunixFx
+- **Discord:** https://discord.gg/RJt7EUACab
+- **Website:** https://junixfx.de
 
 ---
 
-## 🚀 Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git">
+<p align="center">
+  <i>Building projects, exploring technology and turning ideas into reality.</i>
 </p>
 
----
-
-## 👀 Besucher
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=JunixcodingFx&color=blue">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JunixcodingFx&label=Profilaufrufe&color=7c3aed&style=flat" alt="Profilaufrufe" />
 </p>
