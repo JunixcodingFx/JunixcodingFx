@@ -66,6 +66,8 @@ Ein Hosting-Projekt mit Schwerpunkt auf Gameservern, Serververwaltung und techni
   <i>Building projects, exploring technology and turning ideas into reality.</i>
 </p>
 
+## 👁️ Profilaufrufe
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JunixcodingFx&label=Profilaufrufe&color=7c3aed&style=flat" alt="Profilaufrufe" />
+  <img src="https://count.getloli.com/@JunixcodingFx?name=JunixcodingFx&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profilaufrufe von JunixcodingFx" />
 </p>
